@@ -1,9 +1,7 @@
   
-<h1 align="center"> ⬇️ Supplementary Tool ⬇️ </h1>
-<h1 align="center"> https://github.com/The-Lxx-CLoUD/CLoUD-LAN </h1>
-
+<h1 align="center">  🔥 CLoUD-LAN 🔥 </h1>
 <p align="center">
-<i> 🔥 CLoUD-LAN 🔥  </i>
+<i> ToolKit For Local Network   </i>
 </p>
     
 <p align="center">
@@ -22,20 +20,24 @@ written in C++17 using libpcap and raw sockets.
 - libpcap development headers
 
 ## 📩 Installation steps : 
-- 1️⃣ Open the file :
+- 1️⃣ Installing the repository :
+```bash
+git clone https://github.com/The-Lxx-CLoUD/CLoUD-LAN
+```
+- 2️⃣ Open the file :
 ```bash
 cd CLoUD-LAN
 ```
-- 2️⃣ Installing prerequisites :
+- 3️⃣ Installing prerequisites :
 ```bash
 sudo apt-get install build-essential libpcap-dev
 ```
-- 3️⃣ Build // Compile :
+- 4️⃣ Build // Compile :
 ```bash
 make
 ```
 This produces a binary called `CLoUD-LAN`.
-- 4️⃣ Run Tool :
+- 5️⃣ Run Tool :
 ```bash
 sudo ./CLoUD-LAN
 ```
