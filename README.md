@@ -1,8 +1,5 @@
 <h1 align="center">  🔥 CLoUD-LAN 🔥 </h1>
-<h1 align="center">  🔥 CLoUD-LAN 🔥 </h1>
-<h1 align="center">  🔥 CLoUD-LAN 🔥 </h1>
-<h1 align="center">  🔥 CLoUD-LAN 🔥 </h1>
-<h1 align="center">  🔥 CLoUD-LAN 🔥 </h1>
+<h1 align="center">  🔥 CLoU
 
   
 <h1 align="center">  🔥 CLoUD-LAN 🔥 </h1>
