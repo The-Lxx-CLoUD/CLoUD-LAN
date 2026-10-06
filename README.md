@@ -1,5 +1,4 @@
 <h1 align="center">  🔥 CLoUD-LAN 🔥 </h1>
-<h1 align="center">  🔥 CLoU
 <p align="center">
   <img src="file/pss0.jpg" width="800">
   
